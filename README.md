@@ -1,5 +1,3 @@
-# Tobias Bak
-
 ## Projects
 
 - **[vault-public](https://github.com/TobiasBak/vault-public)** - Notes and agent skills on software engineering, agent-assisted development, and personal projects.
